@@ -1,6 +1,6 @@
 import Vapor
 
-/// Register your application's routes here.
+/// Register your application's routes here. test2
 public func routes(_ router: Router) throws {
     // Basic "It works" example
     router.get { req in
